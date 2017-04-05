@@ -55,6 +55,7 @@ List of templates:
  19 | Template for Job Requirements :necktie: | [URL](https://www.google.com "Google's Homepage") | 
  20 | Template for Freelancer Reports :bookmark_tabs: | [URL](https://www.google.com "Google's Homepage") | 
  21 | Template for Check List :clipboard: | [URL](https://www.google.com "Google's Homepage") | 
+ 21 | Template for Emojis :bowtie: | [URL](https://www.google.com "Google's Homepage") | 
  
  
 Licence
