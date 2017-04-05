@@ -46,7 +46,7 @@ List of templates:
  10 | Template for CV :newspaper: | [URL](https://www.google.com "Google's Homepage") |
  11 | Template for Résumé :page_with_curl: | [URL](https://www.google.com "Google's Homepage") |
  12 | Template for Contracts :scroll: | [URL](https://www.google.com "Google's Homepage") |
- 13 | Template for Profile | [URL](https://www.google.com "Google's Homepage") | 
+ 13 | Template for Profile :moyai: | [URL](https://www.google.com "Google's Homepage") | 
  14 | Template for Interview :notebook: | [URL](https://www.google.com "Google's Homepage") | 
  15 | Template for Must Have Web Apps | [URL](https://www.google.com "Google's Homepage") |
  16 | Template for Desktop Sofware| [URL](https://www.google.com "Google's Homepage") |
