@@ -35,7 +35,7 @@ List of templates:
  :--: | :--: | :--: |
  1 | Template for Knowledge Paths  | [URL](https://www.google.com "Google's Homepage") |
  2 | Template for Cheat Sheets  | [URL](https://www.google.com "Google's Homepage") |
- 3 | Template for Courses  | [URL](https://www.google.com "Google's Homepage") |
+ 3 | Template for Courses :mortar_board:  | [URL](https://www.google.com "Google's Homepage") |
  4 | Template for Exams | [URL](https://www.google.com "Google's Homepage") |
  5 | Template for Study plan | [URL](https://www.google.com "Google's Homepage") |
  6 | Template for StartUP | [URL](https://www.google.com "Google's Homepage") |
@@ -50,7 +50,7 @@ List of templates:
  15 | Template for Must Have Web Apps | [URL](https://www.google.com "Google's Homepage") |
  16 | Template for Desktop Sofware| [URL](https://www.google.com "Google's Homepage") |
  17 | Template for Enterprise Software | [URL](https://www.google.com "Google's Homepage") |
- 18 | Template for Cloud Software | [URL](https://www.google.com "Google's Homepage") | 
+ 18 | Template for Cloud Software :cloud: | [URL](https://www.google.com "Google's Homepage") | 
  19 | Template for Job Requirements | [URL](https://www.google.com "Google's Homepage") | 
  20 | Template for Freelancer Reports | [URL](https://www.google.com "Google's Homepage") | 
  
