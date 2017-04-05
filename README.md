@@ -6,7 +6,7 @@ List of templates:
 =================
 -# | Name | URL |
  :--: | :--: | :--: |
- 0 | Template for Linux | [URL](https://www.google.com "Google's Homepage") |
+ 0 | Template for Linux Solutions | [URL](https://www.google.com "Google's Homepage") |
  1 | Template for Programming | [URL](https://www.google.com "Google's Homepage") |
  2 | Template for Web Apps | [URL](https://www.google.com "Google's Homepage") |
  3 | Template for PaaS | [URL](https://www.google.com "Google's Homepage") |
@@ -20,8 +20,14 @@ List of templates:
  12 | Template for IOT | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Hackathon | [URL](https://www.google.com "Google's Homepage") |
  14 | Template for Smart Cities | [URL](https://www.google.com "Google's Homepage") |
- 15 | Template for Science | [URL](https://www.google.com "Google's Homepage") |
+ 15 | Template for Science Stuff | [URL](https://www.google.com "Google's Homepage") |
  16 | Template for Technological infrastructure | [URL](https://www.google.com "Google's Homepage") |
+ 17 | Template for Offensive security | [URL](https://www.google.com "Google's Homepage") |
+ 18 | Template for Data Science | [URL](https://www.google.com "Google's Homepage") | 
+ 19 | Template for Social Media | [URL](https://www.google.com "Google's Homepage") |
+ 20 | Template for E-Commerce | [URL](https://www.google.com "Google's Homepage") |
+ 21 | Template for Campaings | [URL](https://www.google.com "Google's Homepage") | 
+
  
  Complementary
  =============
@@ -40,13 +46,12 @@ List of templates:
  11 | Template for Résumé | [URL](https://www.google.com "Google's Homepage") |
  12 | Template for Contracts | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Profile | [URL](https://www.google.com "Google's Homepage") | 
- 14 | Template for Checklist | [URL](https://www.google.com "Google's Homepage") | 
- 15 | Template for Campaings | [URL](https://www.google.com "Google's Homepage") |
- 16 | Template for Résumé | [URL](https://www.google.com "Google's Homepage") |
- 17 | Template for Contracts | [URL](https://www.google.com "Google's Homepage") |
- 18 | Template for Profile | [URL](https://www.google.com "Google's Homepage") | 
+ 14 | Template for Interview | [URL](https://www.google.com "Google's Homepage") | 
+ 15 | Template for Must Have Web Apps | [URL](https://www.google.com "Google's Homepage") |
+ 16 | Template for Desktop Sofware| [URL](https://www.google.com "Google's Homepage") |
+ 17 | Template for Enterprise Software | [URL](https://www.google.com "Google's Homepage") |
+ 18 | Template for Cloud Software | [URL](https://www.google.com "Google's Homepage") | 
  19 | Template for Checklist | [URL](https://www.google.com "Google's Homepage") | 
- 20 | Template for Campaings | [URL](https://www.google.com "Google's Homepage") | 
  
  
 Licence
