@@ -6,8 +6,8 @@ List of templates:
 =================
 -# | Name | URL |
  :--: | :--: | :--: |
- 0 | Template for Linux Solutions | [URL](https://www.google.com "Google's Homepage") |
- 1 | Template for Programming | [URL](https://www.google.com "Google's Homepage") |
+ 0 | Template for Linux Solutions :penguin: | [URL](https://www.google.com "Google's Homepage") |
+ 1 | Template for Programming :snake: | [URL](https://www.google.com "Google's Homepage") |
  2 | Template for Web Apps | [URL](https://www.google.com "Google's Homepage") |
  3 | Template for PaaS | [URL](https://www.google.com "Google's Homepage") |
  4 | Template for SaaS  | [URL](https://www.google.com "Google's Homepage") |
@@ -17,15 +17,15 @@ List of templates:
  9 | Template for Performance  | [URL](https://www.google.com "Google's Homepage") |
  10 | Template for High Availability  | [URL](https://www.google.com "Google's Homepage") |
  11 | Template for Cognitive Technologies  | [URL](https://www.google.com "Google's Homepage") |
- 12 | Template for IOT | [URL](https://www.google.com "Google's Homepage") |
+ 12 | Template for IOT :pager: | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Hackathon | [URL](https://www.google.com "Google's Homepage") |
  14 | Template for Smart Cities | [URL](https://www.google.com "Google's Homepage") |
- 15 | Template for Science Stuff | [URL](https://www.google.com "Google's Homepage") |
+ 15 | Template for Science Stuff :microscope: | [URL](https://www.google.com "Google's Homepage") |
  16 | Template for Technological infrastructure | [URL](https://www.google.com "Google's Homepage") |
  17 | Template for Offensive security :trollface: | [URL](https://www.google.com "Google's Homepage") |
  18 | Template for Data Science | [URL](https://www.google.com "Google's Homepage") | 
  19 | Template for Social Media | [URL](https://www.google.com "Google's Homepage") |
- 20 | Template for E-Commerce | [URL](https://www.google.com "Google's Homepage") |
+ 20 | Template for E-Commerce :money_with_wings: | [URL](https://www.google.com "Google's Homepage") |
  21 | Template for Campaings | [URL](https://www.google.com "Google's Homepage") | 
 
  
