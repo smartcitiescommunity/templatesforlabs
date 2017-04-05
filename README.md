@@ -20,7 +20,10 @@ N | Name | URL |
  12 | Template for IOT Labs  | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Hackathon Labs  | [URL](https://www.google.com "Google's Homepage") |
  14 | Template for Smart Cities Labs  | [URL](https://www.google.com "Google's Homepage") |
- 
+ 15 | Template for Knowledge Paths  | [URL](https://www.google.com "Google's Homepage") |
+ 16 | Template for Cheat Sheets  | [URL](https://www.google.com "Google's Homepage") |
+ 17 | Template for Projects  | [URL](https://www.google.com "Google's Homepage") |
+ 18 | Template for Study plan | [URL](https://www.google.com "Google's Homepage") |
  
 Licence
 =======
