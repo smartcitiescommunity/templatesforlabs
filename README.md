@@ -48,9 +48,9 @@ List of templates:
  12 | Template for Contracts :scroll: | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Profile :moyai: | [URL](https://www.google.com "Google's Homepage") | 
  14 | Template for Interview :notebook: | [URL](https://www.google.com "Google's Homepage") | 
- 15 | Template for Must Have Web Apps | [URL](https://www.google.com "Google's Homepage") |
- 16 | Template for Desktop Sofware| [URL](https://www.google.com "Google's Homepage") |
- 17 | Template for Enterprise Software | [URL](https://www.google.com "Google's Homepage") |
+ 15 | Template for Must Have Web Apps :ballot_box_with_check: | [URL](https://www.google.com "Google's Homepage") |
+ 16 | Template for Desktop Sofware :video_game: | [URL](https://www.google.com "Google's Homepage") |
+ 17 | Template for Enterprise Software :department_store: | [URL](https://www.google.com "Google's Homepage") |
  18 | Template for Cloud Software :cloud: | [URL](https://www.google.com "Google's Homepage") | 
  19 | Template for Job Requirements :necktie: | [URL](https://www.google.com "Google's Homepage") | 
  20 | Template for Freelancer Reports :bookmark_tabs: | [URL](https://www.google.com "Google's Homepage") | 
@@ -59,8 +59,6 @@ List of templates:
  
 Licence
 =======
-All work here have a Open Licences. Just do it. Don't Worry... Make Money, Copy, Share, improve, Remix and Share again.
-
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
