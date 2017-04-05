@@ -1,6 +1,6 @@
 Templates for labs
 ==================
-This Repo it's for Nice templates for make your Labs in the Best Way possible with an academic touch.
+This Repo it's for Nice templates for make your Projects and Labs in the Cool way with an academic touch.
 
 List of templates:
 =================
@@ -22,7 +22,7 @@ List of templates:
  14 | Template for Smart Cities | [URL](https://www.google.com "Google's Homepage") |
  15 | Template for Science Stuff | [URL](https://www.google.com "Google's Homepage") |
  16 | Template for Technological infrastructure | [URL](https://www.google.com "Google's Homepage") |
- 17 | Template for Offensive security | [URL](https://www.google.com "Google's Homepage") |
+ 17 | Template for Offensive security :trollface: | [URL](https://www.google.com "Google's Homepage") |
  18 | Template for Data Science | [URL](https://www.google.com "Google's Homepage") | 
  19 | Template for Social Media | [URL](https://www.google.com "Google's Homepage") |
  20 | Template for E-Commerce | [URL](https://www.google.com "Google's Homepage") |
