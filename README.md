@@ -7,14 +7,21 @@ List of templates:
 N | Name | URL |
  :--: | :--: | :--: |
  0 | Template for Linux Labs | [URL](https://www.google.com "Google's Homepage") |
- 1 | Template for Python Labs | [URL](https://www.google.com "Google's Homepage") |
+ 1 | Template for Programming Labs | [URL](https://www.google.com "Google's Homepage") |
  2 | Template for HTML Labs | [URL](https://www.google.com "Google's Homepage") |
- 3 | Template for OpenShift Labs | [URL](https://www.google.com "Google's Homepage") |
- 4 | Template for Docker Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 3 | Template for PaaS Labs | [URL](https://www.google.com "Google's Homepage") |
+ 4 | Template for SaaS Labs  | [URL](https://www.google.com "Google's Homepage") |
  6 | Template for Security and Hardening Labs | [URL](https://www.google.com "Google's Homepage") |
  7 | Template for Backup Labs | [URL](https://www.google.com "Google's Homepage") |
- 8 | Template for Ansible Labs  | [URL](https://www.google.com "Google's Homepage") |
-
+ 8 | Template for DevOps Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 9 | Template for Performance Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 10 | Template for High Availability Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 11 | Template for Cognitive Technologies Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 12 | Template for IOT Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 13 | Template for Hackathon Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 14 | Template for Smart Cities Labs  | [URL](https://www.google.com "Google's Homepage") |
+ 
+ 
 Licence
 =======
 All work here have a Open Licences. Just do it. Don't Worry... Make Money, Copy, Share, improve, Remix and Share again.
