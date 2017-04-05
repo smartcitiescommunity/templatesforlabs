@@ -6,24 +6,46 @@ List of templates:
 =================
 N | Name | URL |
  :--: | :--: | :--: |
- 0 | Template for Linux Labs | [URL](https://www.google.com "Google's Homepage") |
- 1 | Template for Programming Labs | [URL](https://www.google.com "Google's Homepage") |
- 2 | Template for HTML Labs | [URL](https://www.google.com "Google's Homepage") |
- 3 | Template for PaaS Labs | [URL](https://www.google.com "Google's Homepage") |
- 4 | Template for SaaS Labs  | [URL](https://www.google.com "Google's Homepage") |
- 6 | Template for Security and Hardening Labs | [URL](https://www.google.com "Google's Homepage") |
- 7 | Template for Backup Labs | [URL](https://www.google.com "Google's Homepage") |
- 8 | Template for DevOps Labs  | [URL](https://www.google.com "Google's Homepage") |
- 9 | Template for Performance Labs  | [URL](https://www.google.com "Google's Homepage") |
- 10 | Template for High Availability Labs  | [URL](https://www.google.com "Google's Homepage") |
- 11 | Template for Cognitive Technologies Labs  | [URL](https://www.google.com "Google's Homepage") |
- 12 | Template for IOT Labs  | [URL](https://www.google.com "Google's Homepage") |
- 13 | Template for Hackathon Labs  | [URL](https://www.google.com "Google's Homepage") |
- 14 | Template for Smart Cities Labs  | [URL](https://www.google.com "Google's Homepage") |
- 15 | Template for Knowledge Paths  | [URL](https://www.google.com "Google's Homepage") |
- 16 | Template for Cheat Sheets  | [URL](https://www.google.com "Google's Homepage") |
- 17 | Template for Projects  | [URL](https://www.google.com "Google's Homepage") |
- 18 | Template for Study plan | [URL](https://www.google.com "Google's Homepage") |
+ 0 | Template for Linux | [URL](https://www.google.com "Google's Homepage") |
+ 1 | Template for Programming | [URL](https://www.google.com "Google's Homepage") |
+ 2 | Template for Web Apps | [URL](https://www.google.com "Google's Homepage") |
+ 3 | Template for PaaS | [URL](https://www.google.com "Google's Homepage") |
+ 4 | Template for SaaS  | [URL](https://www.google.com "Google's Homepage") |
+ 6 | Template for Security and Hardening | [URL](https://www.google.com "Google's Homepage") |
+ 7 | Template for Backup | [URL](https://www.google.com "Google's Homepage") |
+ 8 | Template for DevOps  | [URL](https://www.google.com "Google's Homepage") |
+ 9 | Template for Performance  | [URL](https://www.google.com "Google's Homepage") |
+ 10 | Template for High Availability  | [URL](https://www.google.com "Google's Homepage") |
+ 11 | Template for Cognitive Technologies  | [URL](https://www.google.com "Google's Homepage") |
+ 12 | Template for IOT | [URL](https://www.google.com "Google's Homepage") |
+ 13 | Template for Hackathon | [URL](https://www.google.com "Google's Homepage") |
+ 14 | Template for Smart Cities | [URL](https://www.google.com "Google's Homepage") |
+ 15 | Template for Science | [URL](https://www.google.com "Google's Homepage") |
+ 16 | Template for Technological infrastructure | [URL](https://www.google.com "Google's Homepage") |
+ 
+ Complementary
+ =============
+ 1 | Template for Knowledge Paths  | [URL](https://www.google.com "Google's Homepage") |
+ 2 | Template for Cheat Sheets  | [URL](https://www.google.com "Google's Homepage") |
+ 3 | Template for Courses  | [URL](https://www.google.com "Google's Homepage") |
+ 4 | Template for Exams | [URL](https://www.google.com "Google's Homepage") |
+ 5 | Template for Study plan | [URL](https://www.google.com "Google's Homepage") |
+ 6 | Template for StartUP | [URL](https://www.google.com "Google's Homepage") |
+ 7 | Template for Portfolio | [URL](https://www.google.com "Google's Homepage") |
+ 8 | Template for Prototype | [URL](https://www.google.com "Google's Homepage") |
+ 9 | Template for Catalog | [URL](https://www.google.com "Google's Homepage") |
+ 10 | Template for CV | [URL](https://www.google.com "Google's Homepage") |
+ 11 | Template for Résumé | [URL](https://www.google.com "Google's Homepage") |
+ 12 | Template for Contracts | [URL](https://www.google.com "Google's Homepage") |
+ 13 | Template for Profile | [URL](https://www.google.com "Google's Homepage") | 
+ 14 | Template for Checklist | [URL](https://www.google.com "Google's Homepage") | 
+ 15 | Template for Campaings | [URL](https://www.google.com "Google's Homepage") |
+ 16 | Template for Résumé | [URL](https://www.google.com "Google's Homepage") |
+ 17 | Template for Contracts | [URL](https://www.google.com "Google's Homepage") |
+ 18 | Template for Profile | [URL](https://www.google.com "Google's Homepage") | 
+ 19 | Template for Checklist | [URL](https://www.google.com "Google's Homepage") | 
+ 20 | Template for Campaings | [URL](https://www.google.com "Google's Homepage") | 
+ 
  
 Licence
 =======
