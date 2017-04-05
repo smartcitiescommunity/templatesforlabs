@@ -35,25 +35,26 @@ List of templates:
  -# | Name | URL |
  :--: | :--: | :--: |
  1 | Template for Knowledge Paths  | [URL](https://www.google.com "Google's Homepage") |
- 2 | Template for Cheat Sheets  | [URL](https://www.google.com "Google's Homepage") |
+ 2 | Template for Cheat Sheets :card_index: | [URL](https://www.google.com "Google's Homepage") |
  3 | Template for Courses :mortar_board:  | [URL](https://www.google.com "Google's Homepage") |
- 4 | Template for Exams | [URL](https://www.google.com "Google's Homepage") |
- 5 | Template for Study plan | [URL](https://www.google.com "Google's Homepage") |
- 6 | Template for StartUP | [URL](https://www.google.com "Google's Homepage") |
- 7 | Template for Portfolio | [URL](https://www.google.com "Google's Homepage") |
- 8 | Template for Prototype | [URL](https://www.google.com "Google's Homepage") |
+ 4 | Template for Exams :memo: | [URL](https://www.google.com "Google's Homepage") |
+ 5 | Template for Study plan :school: | [URL](https://www.google.com "Google's Homepage") |
+ 6 | Template for StartUP :checkered_flag: | [URL](https://www.google.com "Google's Homepage") |
+ 7 | Template for Portfolio :briefcase: | [URL](https://www.google.com "Google's Homepage") |
+ 8 | Template for Prototype :rocket: | [URL](https://www.google.com "Google's Homepage") |
  9 | Template for Catalog | [URL](https://www.google.com "Google's Homepage") |
- 10 | Template for CV | [URL](https://www.google.com "Google's Homepage") |
- 11 | Template for Résumé | [URL](https://www.google.com "Google's Homepage") |
- 12 | Template for Contracts | [URL](https://www.google.com "Google's Homepage") |
+ 10 | Template for CV :newspaper: | [URL](https://www.google.com "Google's Homepage") |
+ 11 | Template for Résumé :page_with_curl: | [URL](https://www.google.com "Google's Homepage") |
+ 12 | Template for Contracts :scroll: | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Profile | [URL](https://www.google.com "Google's Homepage") | 
  14 | Template for Interview | [URL](https://www.google.com "Google's Homepage") | 
  15 | Template for Must Have Web Apps | [URL](https://www.google.com "Google's Homepage") |
  16 | Template for Desktop Sofware| [URL](https://www.google.com "Google's Homepage") |
  17 | Template for Enterprise Software | [URL](https://www.google.com "Google's Homepage") |
  18 | Template for Cloud Software :cloud: | [URL](https://www.google.com "Google's Homepage") | 
- 19 | Template for Job Requirements | [URL](https://www.google.com "Google's Homepage") | 
- 20 | Template for Freelancer Reports | [URL](https://www.google.com "Google's Homepage") | 
+ 19 | Template for Job Requirements :necktie: | [URL](https://www.google.com "Google's Homepage") | 
+ 20 | Template for Freelancer Reports :bookmark_tabs: | [URL](https://www.google.com "Google's Homepage") | 
+ 21 | Template for Check List :clipboard: | [URL](https://www.google.com "Google's Homepage") | 
  
  
 Licence
