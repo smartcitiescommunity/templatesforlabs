@@ -27,6 +27,7 @@ List of templates:
  19 | Template for Social Media :busts_in_silhouette: | [URL](https://www.google.com "Google's Homepage") |
  20 | Template for E-Commerce :money_with_wings: | [URL](https://www.google.com "Google's Homepage") |
  21 | Template for Campaings :non-potable_water: | [URL](https://www.google.com "Google's Homepage") | 
+ 22 | Template for Political Campaings :squirrel: | [URL](https://www.google.com "Google's Homepage") | 
 
  
  Complementary
