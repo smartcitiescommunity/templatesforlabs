@@ -11,12 +11,12 @@ List of templates:
  2 | Template for Web Apps | [URL](https://www.google.com "Google's Homepage") |
  3 | Template for PaaS | [URL](https://www.google.com "Google's Homepage") |
  4 | Template for SaaS  | [URL](https://www.google.com "Google's Homepage") |
- 6 | Template for Security and Hardening | [URL](https://www.google.com "Google's Homepage") |
+ 6 | Template for Security and Hardening :closed_lock_with_key: | [URL](https://www.google.com "Google's Homepage") |
  7 | Template for Backup | [URL](https://www.google.com "Google's Homepage") |
  8 | Template for DevOps  | [URL](https://www.google.com "Google's Homepage") |
  9 | Template for Performance  | [URL](https://www.google.com "Google's Homepage") |
  10 | Template for High Availability  | [URL](https://www.google.com "Google's Homepage") |
- 11 | Template for Cognitive Technologies  | [URL](https://www.google.com "Google's Homepage") |
+ 11 | Template for Cognitive Technologies :bulb: | [URL](https://www.google.com "Google's Homepage") |
  12 | Template for IOT :pager: | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Hackathon | [URL](https://www.google.com "Google's Homepage") |
  14 | Template for Smart Cities | [URL](https://www.google.com "Google's Homepage") |
