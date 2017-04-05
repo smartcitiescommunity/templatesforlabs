@@ -13,20 +13,20 @@ List of templates:
  4 | Template for SaaS  | [URL](https://www.google.com "Google's Homepage") |
  6 | Template for Security and Hardening :closed_lock_with_key: | [URL](https://www.google.com "Google's Homepage") |
  7 | Template for Backup | [URL](https://www.google.com "Google's Homepage") |
- 8 | Template for DevOps  | [URL](https://www.google.com "Google's Homepage") |
+ 8 | Template for DevOps :cyclone: | [URL](https://www.google.com "Google's Homepage") |
  9 | Template for Performance  | [URL](https://www.google.com "Google's Homepage") |
  10 | Template for High Availability  | [URL](https://www.google.com "Google's Homepage") |
  11 | Template for Cognitive Technologies :bulb: | [URL](https://www.google.com "Google's Homepage") |
  12 | Template for IOT :pager: | [URL](https://www.google.com "Google's Homepage") |
- 13 | Template for Hackathon | [URL](https://www.google.com "Google's Homepage") |
- 14 | Template for Smart Cities | [URL](https://www.google.com "Google's Homepage") |
+ 13 | Template for Hackathon :checkered_flag: | [URL](https://www.google.com "Google's Homepage") |
+ 14 | Template for Smart Cities :city_sunrise: | [URL](https://www.google.com "Google's Homepage") |
  15 | Template for Science Stuff :microscope: | [URL](https://www.google.com "Google's Homepage") |
- 16 | Template for Technological infrastructure | [URL](https://www.google.com "Google's Homepage") |
+ 16 | Template for Technological infrastructure :globe_with_meridians: | [URL](https://www.google.com "Google's Homepage") |
  17 | Template for Offensive security :trollface: | [URL](https://www.google.com "Google's Homepage") |
- 18 | Template for Data Science | [URL](https://www.google.com "Google's Homepage") | 
+ 18 | Template for Data Science :mag: | [URL](https://www.google.com "Google's Homepage") | 
  19 | Template for Social Media | [URL](https://www.google.com "Google's Homepage") |
  20 | Template for E-Commerce :money_with_wings: | [URL](https://www.google.com "Google's Homepage") |
- 21 | Template for Campaings | [URL](https://www.google.com "Google's Homepage") | 
+ 21 | Template for Campaings :non-potable_water: | [URL](https://www.google.com "Google's Homepage") | 
 
  
  Complementary
