@@ -17,5 +17,5 @@ All work here have a Open Licences. Just do it. Don't Worry... Make Money, Copy,
      href="https://about.me/juanfvilla">
     <span property="dct:title">Juan F. Villa</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Template for Academic Labs with Linux</span>.
+  <span property="dct:title">Template for Labs</span>.
 </p>
