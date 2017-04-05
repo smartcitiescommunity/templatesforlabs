@@ -8,11 +8,11 @@ List of templates:
  :--: | :--: | :--: |
  0 | Template for Linux Solutions :penguin: | [URL](https://www.google.com "Google's Homepage") |
  1 | Template for Programming :snake: | [URL](https://www.google.com "Google's Homepage") |
- 2 | Template for Web Apps | [URL](https://www.google.com "Google's Homepage") |
- 3 | Template for PaaS | [URL](https://www.google.com "Google's Homepage") |
- 4 | Template for SaaS  | [URL](https://www.google.com "Google's Homepage") |
+ 2 | Template for Web Apps :bookmark: | [URL](https://www.google.com "Google's Homepage") |
+ 3 | Template for PaaS :octocat: | [URL](https://www.google.com "Google's Homepage") |
+ 4 | Template for SaaS :package: | [URL](https://www.google.com "Google's Homepage") |
  6 | Template for Security and Hardening :closed_lock_with_key: | [URL](https://www.google.com "Google's Homepage") |
- 7 | Template for Backup :hearts: | [URL](https://www.google.com "Google's Homepage") |
+ 7 | Template for Backup :warning: | [URL](https://www.google.com "Google's Homepage") |
  8 | Template for DevOps :cyclone: | [URL](https://www.google.com "Google's Homepage") |
  9 | Template for Performance :pill: | [URL](https://www.google.com "Google's Homepage") |
  10 | Template for High Availability :raised_hands:  | [URL](https://www.google.com "Google's Homepage") |
