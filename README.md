@@ -51,7 +51,8 @@ List of templates:
  16 | Template for Desktop Sofware| [URL](https://www.google.com "Google's Homepage") |
  17 | Template for Enterprise Software | [URL](https://www.google.com "Google's Homepage") |
  18 | Template for Cloud Software | [URL](https://www.google.com "Google's Homepage") | 
- 19 | Template for Checklist | [URL](https://www.google.com "Google's Homepage") | 
+ 19 | Template for Job Requirements | [URL](https://www.google.com "Google's Homepage") | 
+ 20 | Template for Freelancer Reports | [URL](https://www.google.com "Google's Homepage") | 
  
  
 Licence
