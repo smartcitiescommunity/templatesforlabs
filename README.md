@@ -34,7 +34,7 @@ List of templates:
  =============
  -# | Name | URL |
  :--: | :--: | :--: |
- 1 | Template for Knowledge Paths  | [URL](https://www.google.com "Google's Homepage") |
+ 1 | Template for Knowledge Paths :paw_prints:  | [URL](https://www.google.com "Google's Homepage") |
  2 | Template for Cheat Sheets :card_index: | [URL](https://www.google.com "Google's Homepage") |
  3 | Template for Courses :mortar_board:  | [URL](https://www.google.com "Google's Homepage") |
  4 | Template for Exams :memo: | [URL](https://www.google.com "Google's Homepage") |
@@ -42,12 +42,12 @@ List of templates:
  6 | Template for StartUP :checkered_flag: | [URL](https://www.google.com "Google's Homepage") |
  7 | Template for Portfolio :briefcase: | [URL](https://www.google.com "Google's Homepage") |
  8 | Template for Prototype :rocket: | [URL](https://www.google.com "Google's Homepage") |
- 9 | Template for Catalog | [URL](https://www.google.com "Google's Homepage") |
+ 9 | Template for Catalog :orange_book:  | [URL](https://www.google.com "Google's Homepage") |
  10 | Template for CV :newspaper: | [URL](https://www.google.com "Google's Homepage") |
  11 | Template for Résumé :page_with_curl: | [URL](https://www.google.com "Google's Homepage") |
  12 | Template for Contracts :scroll: | [URL](https://www.google.com "Google's Homepage") |
  13 | Template for Profile | [URL](https://www.google.com "Google's Homepage") | 
- 14 | Template for Interview | [URL](https://www.google.com "Google's Homepage") | 
+ 14 | Template for Interview :notebook: | [URL](https://www.google.com "Google's Homepage") | 
  15 | Template for Must Have Web Apps | [URL](https://www.google.com "Google's Homepage") |
  16 | Template for Desktop Sofware| [URL](https://www.google.com "Google's Homepage") |
  17 | Template for Enterprise Software | [URL](https://www.google.com "Google's Homepage") |
