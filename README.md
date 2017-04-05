@@ -4,7 +4,7 @@ This Repo it's for Nice templates for make your Labs in the Best Way possible wi
 
 List of templates:
 =================
-# | Name | URL |
+-# | Name | URL |
  :--: | :--: | :--: |
  0 | Template for Linux | [URL](https://www.google.com "Google's Homepage") |
  1 | Template for Programming | [URL](https://www.google.com "Google's Homepage") |
@@ -25,7 +25,7 @@ List of templates:
  
  Complementary
  =============
- # | Name | URL |
+ -# | Name | URL |
  :--: | :--: | :--: |
  1 | Template for Knowledge Paths  | [URL](https://www.google.com "Google's Homepage") |
  2 | Template for Cheat Sheets  | [URL](https://www.google.com "Google's Homepage") |
